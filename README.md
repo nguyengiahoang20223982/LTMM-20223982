@@ -82,7 +82,7 @@ Test Vector 2:
 -MÃ HÓA:
 Nhap do dai cua vector S: 10
 Khoi tao gia tri ban dau cua S !
-0 1 2 3 4 5 6 7 8 9 
+0 1 2 3 4 5 6 7 8 9
 Nhap do dai cua khoa K: 3
 Nhap gia tri cua K:
 1
@@ -92,10 +92,10 @@ Vector khoi tao T !
 1 2 3 1 2 3 1 2 3 1
 Vector hoan vi S !
 1 3 4 9 5 6 0 2 7 8
-Nhap chieu dai chuoi Plaintext: 5
-Nhap Plaintext: hoang
-Dong khoa la: 4 0 5 9 7
-Ciphertext la: l o d g `
+Nhap chieu dai chuoi Plaintext: 6
+Nhap Plaintext: 223982
+Dong khoa la: 4 0 5 9 7 3
+Ciphertext la: 6 2 6 0 ? 1
 -GIẢI MÃ:
 Nhap do dai cua vector S: 10
 Khoi tao gia tri ban dau cua S !
@@ -109,7 +109,7 @@ Vector khoi tao T !
 1 2 3 1 2 3 1 2 3 1
 Vector hoan vi S !
 1 3 4 9 5 6 0 2 7 8
-Nhap chieu dai chuoi Ciphertext: 5
-Nhap Ciphertext: lodg`     
-Dong khoa la: 4 0 5 9 7
-Plaintext la: h o a n g
+Nhap chieu dai chuoi Ciphertext: 6
+Nhap Ciphertext: 6260?1      
+Dong khoa la: 4 0 5 9 7 3
+Plaintext la: 2 2 3 9 8 2
