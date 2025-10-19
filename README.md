@@ -12,15 +12,9 @@ Biên dịch chương trình MÃ HÓA:
 
 gcc -o rc4_encrypt.exe main.c rc4_init.c rc4_stream.c rc4_encrypt.c
 
-Biên dịch chương trình GIẢI MÃ:
-
-gcc -o rc4_decrypt.exe main.c rc4_init.c rc4_stream.c rc4_decrypt.c
-
 -Chạy chương trình:
 
 ./rc4_encrypt.exe
-
-./rc4_decrypt.exe
 
 2.Hướng dẫn sử dụng chương trình:
 
@@ -37,20 +31,6 @@ Nhập độ dài plaintext
 Nhập plaintext (chuỗi ký tự)
 
 Chương trình xuất ra ciphertext
-
--Quy trình GIẢI MÃ:
-
-Nhập độ dài vector S (1-256)
-
-Nhập độ dài khóa K (phải giống khóa mã hóa)
-
-Nhập giá trị khóa K (từng số nguyên)
-
-Nhập độ dài ciphertext
-
-Nhập ciphertext (chuỗi ký tự)
-
-Chương trình xuất ra plaintext
 
 3.Bộ test vector:
 
