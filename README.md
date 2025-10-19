@@ -1,7 +1,7 @@
 1.Mở chương trình:
 
 -Sử dụng Visual Studio Code
-
+ 
 -Mở project trong VS Code
 
 -Mở terminal tích hợp (Ctrl+`)
